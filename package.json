@@ -1,6 +1,7 @@
 {
   "name": "laundromat-api",
   "version": "1.0.0",
+  "description": "API for Laundromat system with MPesa and SMS integration",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
